@@ -11,5 +11,8 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
+#EXTINF:-1 group-title="Masl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2021_Major_Arena_Soccer_League_logo.svg/2560px-2021_Major_Arena_Soccer_League_logo.svg.png" tvg-id="", MASLtv
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Mbcnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2021_Major_Arena_Soccer_League_logo.svg/2560px-2021_Major_Arena_Soccer_League_logo.svg.png" tvg-id="", MBC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735639627/ei/621zZ97JH_S0ir4Pm4KcmAI/ip/65.27.115.235/id/XphbrMfHdno.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/x-caUAmFGnjKLvLeOV0AoKImhYOjQ3UlQROt67COSEkz0h6CR3M6FgFXldXuezcF9rCCl5c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDNc9xeasQ9QnqeXMAOJMfG6zoEt07V55inf_L6hItQsCIBec3G4996dP2vqQPdOK0l09qRyzglYqOrqF0CwYZZPV/file/index.m3u8
